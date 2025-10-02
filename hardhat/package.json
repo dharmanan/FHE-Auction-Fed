@@ -1,0 +1,14 @@
+{
+  "name": "fhe-voting-hardhat",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "dotenv": "^17.2.3",
+    "ethers": "^5.8.0",
+    "hardhat": "^2.26.3"
+  },
+  "dependencies": {
+    "@fhevm/solidity": "^0.8.0"
+  }
+}
