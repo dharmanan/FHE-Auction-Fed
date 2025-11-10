@@ -53,3 +53,4 @@ npm start
 ### 4. Voting
 - Open the frontend, select a candidate, and vote!
 - Votes are encrypted and sent to the smart contract via the backend.
+- Update 10.11.2025
